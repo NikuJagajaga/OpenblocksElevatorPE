@@ -1,0 +1,16 @@
+{
+    "properties": {
+        "enabled": {
+            "name": {"en": "Enable mod"},
+            "index": 0
+        },
+        "sameColor": {
+            "name": {"en": "Should elevators have the same color in order to teleport?"},
+            "index": 1
+        },
+        "precisionTarget": {
+            "name": {"en": "Realign players to the center of elevator?"},
+            "index": 2
+        }
+    }
+}
